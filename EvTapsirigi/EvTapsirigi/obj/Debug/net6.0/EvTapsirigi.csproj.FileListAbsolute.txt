@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\bin\Debug\net6.0\EvTapsirigi.exe
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\bin\Debug\net6.0\EvTapsirigi.deps.json
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\bin\Debug\net6.0\EvTapsirigi.runtimeconfig.json
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\bin\Debug\net6.0\EvTapsirigi.dll
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\bin\Debug\net6.0\EvTapsirigi.pdb
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.sourcelink.json
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.dll
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\refint\EvTapsirigi.dll
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.pdb
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\EvTapsirigi.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Ev Tapsirigi\EvTapsirigi\EvTapsirigi\obj\Debug\net6.0\ref\EvTapsirigi.dll
